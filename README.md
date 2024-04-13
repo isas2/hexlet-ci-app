@@ -1,4 +1,5 @@
 # Example app for CI Hexlet course
+[![Check & Test](https://github.com/isas2/hexlet-ci-app/actions/workflows/check-test.yml/badge.svg)](https://github.com/isas2/hexlet-ci-app/actions)
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
